@@ -1,0 +1,185 @@
+body {
+  font-family: 'Lato', sans-serif;
+}
+
+h1 {
+  font-family: 'Lato', sans-serif;
+  font-weight: 900;
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Lato', sans-serif;
+  text-align: center;
+}
+
+p {
+  font-family: 'Lato', sans-serif;
+  font-size: 0.9rem;
+  color: #747d8c;
+  text-align: center;
+  line-height: 1.5;
+  font-weight: 500;
+}
+
+/* Executive Summary */
+
+.background {
+  width: 100%;
+  height: 375px;
+}
+
+.profile {
+  border-radius: 100%;
+  border: 3px solid #182C61;
+  position: relative;
+  display: block;
+  margin: -120px auto 0;
+}
+
+.name {
+  padding: 1.5% 0 0;
+  font-size: 3.0rem;
+}
+
+.executive-text {
+  font-size: 1.15rem;
+  padding: 1% 20%;
+  line-height: 1.5;
+}
+
+/* Generic Sections */
+
+.colored-section {
+  background-color: #ADD8E6;
+  padding: 3% 15%;
+}
+
+.white-section {
+  background-color: #fff;
+  padding: 3% 15%;
+}
+
+.cta-section {
+  background-color: #00cec9;
+  padding: 3% 15%;
+  text-align: center;
+}
+
+.size_0_8 {
+  font-size: 0.8rem;
+}
+
+.size_1_1 {
+  font-size: 1.1rem;
+}
+
+/* Professional Experience */
+
+.header {
+  font-size: 2.2rem;
+  font-weight: 700;
+  color: #0c2461;
+}
+
+.logo_bbva {
+  display: block;
+  width: 40%;
+  margin: 0 auto 0 auto;
+}
+
+.logo_axa {
+  border-radius: 25px;
+  display: block;
+  width: 14%;
+  margin: 4% auto 3% auto;
+}
+
+.logo_mapfre {
+  border-radius: 25px;
+  display: block;
+  width: 25%;
+  margin: 4% auto 3% auto;
+}
+
+.logo_azertia {
+  display: block;
+  width: 25%;
+  margin: 2% auto 1% auto;
+}
+
+.logo_pwc {
+  display: block;
+  width: 20%;
+  margin: 2% auto 1% auto;
+}
+
+.logo_deloitte {
+  display: block;
+  width: 15%;
+  margin: 3% auto 1% auto;
+}
+
+.experience-text {
+  color: #fff;
+  font-size: 1.5rem;
+  font-weight: 500;
+  text-align: center;
+  line-height: 1.2;
+}
+
+/* Education */
+
+.header_card {
+  padding-bottom: 2%;
+}
+
+.logo_card {
+  display: block;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.card-text-ie-uva {
+  margin-bottom: 2%;
+}
+
+.card-text-upm {
+  margin-bottom: 5%;
+}
+
+/* Certifications */
+
+.logo_aws {
+  border-radius: 25px;
+  display: block;
+  width: 12%;
+  margin: 4% auto 3% auto;
+}
+
+.logo_cert {
+  border-radius: 25px;
+  display: block;
+  width: 20%;
+  margin: 4% auto 3% auto;
+}
+
+/* Personal Projects */
+
+.linking_logo {
+  border-radius: 15px;
+  display: block;
+  width: 35%;
+  margin: 10% auto 5% auto;
+}
+
+/* CTA */
+
+.cta-text {
+  padding-bottom: 2%;
+}
+
+.cta-button {
+  color: #fff;
+}
