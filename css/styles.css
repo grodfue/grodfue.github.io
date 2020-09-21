@@ -22,6 +22,11 @@ p {
   font-weight: 500;
 }
 
+.carousel-control-next,
+.carousel-control-prev {
+    filter: invert(1);
+}
+
 /* Executive Summary */
 
 .background {
